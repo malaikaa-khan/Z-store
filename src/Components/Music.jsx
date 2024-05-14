@@ -3,7 +3,7 @@ import img from './Images/Frame 694.png'
 const Music = () => {
   return (
     <>
-    <div className='flex w-[87rem] h-[30rem] bg-black ml-[7rem] text-white mb-8'>
+    <div className='flex w-[87rem] h-[30rem] bg-black ml-[7rem] text-white mb-8 mt-6'>
        <div className="text-side w-full pt-[5rem] pl-[6rem]">
         <p className='text-lg font-semibold text-[#00FF66]'>Categories</p>
         <h1 className='text-6xl font-semibold pt-7 flex flex-col'>Enhance Your <span className='pt-4 pb-6'>Music Experience</span></h1>
